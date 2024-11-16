@@ -1,0 +1,55 @@
+intent,user_input,response
+Greeting,Hi,"Hello! Welcome to CareerFinder. How can I assist you today?"
+Greeting,Hello,"Hi there! How can I help you with your career goals?"
+Greeting,Hey,"Hello! What can I do for you today regarding your career path?"
+Greeting,Good morning,"Good morning! How can I support your career journey today?"
+Greeting,Good afternoon,"Good afternoon! What can I help you with?"
+
+Career_Guidance,Can you help me choose a career?,"Of course! I can guide you based on your skills and interests. Do you have any specific areas in mind?"
+Career_Guidance,What career is right for me?,"I’d love to help! Let’s explore options based on your strengths. Could you tell me about your interests?"
+Career_Guidance,I’m not sure what to do after school,"No worries! We can find a career path that matches your skills and preferences. What subjects do you enjoy?"
+Career_Guidance,Which career should I pick?,"I can help with that! We’ll consider your strengths and interests. Are there any fields you’re curious about?"
+Career_Guidance,I need career advice,"I’d be happy to help with career advice! Tell me a bit about your skills and interests."
+
+Science_Streams,What are the options in science?,"Science opens up a range of fields, such as engineering, medicine, biotechnology, environmental science, and data science."
+Science_Streams,What careers are there for science students?,"As a science student, you can explore careers in engineering, research, medicine, environmental science, and more. Do you have a specific interest in any of these?"
+Science_Streams,"I like science, what can I do?","That’s great! Science offers fields like engineering, research, medicine, and environmental science. Let me know if you’d like more details on any area."
+Science_Streams,What can I do with a science background?,"With a science background, options include engineering, medical fields, data science, and more. Let me know if you're interested in a particular area!"
+Science_Streams,What are career paths in biology?,"With a biology background, you could consider fields like medicine, biotechnology, environmental science, or research."
+
+Commerce_Streams,What are career options in commerce?,"Commerce students can pursue careers in accounting, finance, business management, law, and economics."
+Commerce_Streams,What can I do with a commerce background?,"With a commerce background, you could explore accounting, business management, finance, or even entrepreneurship."
+Commerce_Streams,"I’m a commerce student, what are my options?","As a commerce student, you could look into finance, accounting, business analysis, or marketing. Need help with any specific area?"
+Commerce_Streams,What jobs can I get with a commerce degree?,"Commerce graduates can pursue careers in finance, accounting, marketing, and even corporate law. Any specific area you’d like to know more about?"
+Commerce_Streams,What fields are open for commerce students?,"Commerce opens fields like finance, banking, management, and marketing. I can provide details if you're interested in any specific field!"
+
+Arts_Streams,What can I do if I study arts?,"Arts has many options like journalism, psychology, history, languages, and even design or fine arts."
+Arts_Streams,What careers are available in arts?,"With an arts background, you can explore journalism, psychology, teaching, or even creative fields like writing and design."
+Arts_Streams,"I like humanities, what careers are good for me?","Humanities offer a range of careers, from psychology and education to law and journalism. Do any of these interest you?"
+Arts_Streams,What are career options in the arts stream?,"The arts stream offers careers in fields like journalism, law, psychology, fine arts, and design."
+Arts_Streams,What can I do with an arts degree?,"With an arts degree, you can pursue careers in teaching, writing, social work, law, or design. Interested in any of these?"
+
+Aptitude_Test_Info,Can you give me an aptitude test?,"Absolutely! Our aptitude test assesses your skills and interests to help match you with potential career paths."
+Aptitude_Test_Info,What is an aptitude test?,"An aptitude test is a questionnaire that assesses your strengths, interests, and skills, guiding you towards suitable career paths."
+Aptitude_Test_Info,How will an aptitude test help me?,"An aptitude test provides insights into your strengths and interests, helping us recommend careers that fit your personality and skills."
+Aptitude_Test_Info,Do I need to take an aptitude test?,"Taking an aptitude test can help clarify your strengths and match you with potential career paths that suit your profile."
+Aptitude_Test_Info,Where can I take a career aptitude test?,"You can take an aptitude test right here on CareerFinder! Just let me know if you're ready to start."
+
+Career_Details,Can you tell me about a career in engineering?,"Engineering offers multiple fields like mechanical, electrical, civil, and software engineering. It involves problem-solving, design, and innovation."
+Career_Details,What is a career in data science like?,"Data science is about analyzing data to find trends and insights. It’s great for people who enjoy working with numbers, coding, and solving real-world problems."
+Career_Details,What does a psychologist do?,"A psychologist studies human behavior and helps people manage mental health challenges. This career requires empathy and good communication skills."
+Career_Details,What do software engineers do?,"Software engineers design, develop, and maintain software applications. They use programming languages to build software solutions and improve user experiences."
+Career_Details,What is a career in marketing like?,"Marketing involves promoting products or services, conducting market research, and building brand awareness. It’s a great field for creative, strategic thinkers."
+
+Farewell,Goodbye,"Thank you for visiting CareerFinder! Best of luck with your career journey!"
+Farewell,See you,"Goodbye! Don’t hesitate to return if you have more career questions!"
+Farewell,Bye,"Take care! Feel free to reach out anytime for career guidance."
+Farewell,"Thanks, goodbye","You're welcome! Wishing you the best in your career exploration!"
+Farewell,Thank you,"You're very welcome! Let me know if you have more career questions."
+
+Motivation,I'm not sure what to study,"That’s okay! Take your time to explore different subjects. I can help guide you toward careers based on your interests and strengths."
+Motivation,I feel lost about my career,"It’s natural to feel that way sometimes. Let’s explore your interests and skills to help you find a path that’s right for you."
+Motivation,Can you help me stay motivated?,"Absolutely! Setting small, achievable goals can make a big difference. Keep exploring your interests and learning new skills, and remember, career paths aren’t always linear."
+Motivation,What if I fail?,"Failure is part of growth! Many successful people faced setbacks but kept going. Stay curious, and keep learning."
+Motivation,I'm feeling discouraged,"It's okay to feel that way sometimes. Try focusing on small steps toward your goals. I'm here to support your journey."
+
